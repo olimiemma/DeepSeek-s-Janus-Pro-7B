@@ -127,3 +127,11 @@ Please refer to the DeepSeek Janus repository for licensing information.
 ## Acknowledgments
 
 This notebook demonstrates the capabilities of the DeepSeek Janus Pro 7B model. For more information, visit the [DeepSeek AI repository](https://github.com/deepseek-ai/Janus).
+
+![Screenshot from 2025-02-03 21-59-29](https://github.com/user-attachments/assets/380a380e-80bd-4f0d-81a4-27198072c662)
+![Screenshot from 2025-02-03 22-50-39](https://github.com/user-attachments/assets/3e3b317c-6abf-47bd-91e9-6435c436bc81)
+![Screenshot from 2025-02-03 22-51-25](https://github.com/user-attachments/assets/f9b92360-75cb-477b-9dd9-ba289d029fac)
+![Screenshot from 2025-02-03 22-52-00](https://github.com/user-attachments/assets/38b3d7bd-4c06-40f6-b277-9912f5767692)
+![Screenshot from 2025-02-03 22-52-14](https://github.com/user-attachments/assets/4c95f249-5b95-46ad-92af-abc8063ea638)
+
+
